@@ -1,0 +1,15 @@
+﻿
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageReleaseNotes>Subida inicial do projeto</PackageReleaseNotes>
+    <Product> Util Notification</Product>
+    <Description>Biblioteca responsável por gerenciar os Notifications da aplicação (Notification Pattern).</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+  </ItemGroup>
+
+</Project>
